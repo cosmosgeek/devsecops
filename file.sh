@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello this is version 1"
-ifconfig
+uname -a
